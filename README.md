@@ -1,0 +1,1 @@
+This exercise demonstrates the fundamental skills used when working with data in Python using the Pandas library. Pandas is mainly used to load, organize, inspect, filter, clean, and analyze structured data.
